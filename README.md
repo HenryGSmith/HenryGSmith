@@ -1,6 +1,6 @@
 # Nice to meet you!!
 - 👋 Hi, I’m Henry Grantham-Smith, @HenryGSmith
-- 👀 I’m interested in Artificial Intelligence and Discrete Mathematics, essentially anthing that makes the gears in my brain spin!
+- 👀 I’m interested in Artificial Intelligence and Discrete Mathematics, essentially anthing that makes the gears in my brain turn!
 - 🌱 I’m currently studying a BSc in Computer Science with a year in industry
 - 💞️ I’m looking to collaborate on projects that have a positive impact on others
 - 📫 How to reach me? - contact me through my email: HenryG-S@outlook.com
